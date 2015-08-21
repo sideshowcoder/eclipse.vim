@@ -1,7 +1,7 @@
 " Vim color file
-" Maintainer:	Juan frias <juandfrias at gmail dot com>
-" Last Change:	2007 Feb 25
-" Version:	1.0.1
+" Maintainer:	Juan frias <juandfrias at gmail dot com>, Philipp Fehre <philipp@fehre.co.uk>
+" Last Change:	2015 Aug 21
+" Version:	1.0.2
 " URL:		http://www.axisym3.net/jdany/vim-the-editor/#eclipse
 set background=light
 highlight clear
