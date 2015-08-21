@@ -11,7 +11,7 @@ endif
 
 let g:colors_name = "eclipse"
 
-highlight Normal gui=none guifg=#000000 guibg=#ffffff ctermfg=Gray
+highlight Normal gui=none guifg=#000000 guibg=#ffffff ctermfg=Black
 
 " Search
 highlight IncSearch gui=underline guifg=#404040 guibg=#e0e040
